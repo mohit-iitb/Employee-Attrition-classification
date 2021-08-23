@@ -1,2 +1,2 @@
 # Employee-Attrition-classification
-A project done as a part of EE 769 course in IITB
+A Machine Learning project in which we classify input data based on 33 information points of IBM HR Dataset. 
